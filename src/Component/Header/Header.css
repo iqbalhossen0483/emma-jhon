@@ -1,0 +1,22 @@
+.logo{
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    height: 70px;
+}
+.menu-bar{
+    background-color: #000;
+    padding: 7px 0;
+}
+.link{
+    text-decoration: none;
+    margin-left: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+}
+.link:hover{
+    background-color: #6e6b6b;
+}

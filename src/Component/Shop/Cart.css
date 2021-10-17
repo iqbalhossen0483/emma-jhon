@@ -1,0 +1,36 @@
+.cart{
+    border: 1px solid #8080803a;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 20px 20px #80808025;
+    width: 250px;
+    position: fixed;
+    right: 10px;
+    top: 250px;
+}
+.header, .item-ordered{
+    text-align: center;
+}
+.order-details{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.total{
+    color: #b12704;
+}
+.review-btn{
+    width: 80%;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 5px;
+    vertical-align: middle; 
+}
